@@ -285,9 +285,13 @@ Per tal de tractar de complir amb els objectius de la pràctica s'han fet servir
  La predicció de crims totals per l'any 2020 ha estat de **209761.279.**
  En 2020 va haver-hi uns 212k de crims a Chicago, per tant, fa una bona estimació, encara que no deixa de ser un model bastant simple i que anirà estimant cada cop menys crims en anys més allunyats degut a la tendència a la baixa.
  
+ ***
+ 
  ### Conclusions
  Concluïm que Random Forest és el model que millor classifica i en menor temps en comparació a la xarxa neuronal.
  Y per les prediccions de crims total per any fa una bona estimació però com s'ha comentat abans faltarien dades que trenquesin aquesta tendència per millorar la predicció.
+ 
+ ***
  
  ### Treball a futur
  Per un futur estaria bé ampliar les dades per tractar de solventar el problemes que es veuen en la regressió. També seria interesant provar altres models.
